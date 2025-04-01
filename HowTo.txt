@@ -1,0 +1,13 @@
+Establish Environment:
+    Go to:
+    https://nodejs.org/
+    Download the LTS version (the one labeled “Recommended for most users”).
+    Install it using default settings (npm will be included).
+    Restart your command prompt (or open a new one), then run:
+
+
+Create Virtual Environment
+python -m venv .venv
+
+Activate Virtual Environment
+.venv\Scripts\activate
