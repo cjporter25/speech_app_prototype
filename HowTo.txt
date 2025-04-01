@@ -11,3 +11,13 @@ python -m venv .venv
 
 Activate Virtual Environment
 .venv\Scripts\activate
+
+Upgrade Pip in current Directory
+    .\.venv\Scripts\python.exe -m pip install --upgrade pip 
+
+
+Setting up Git in Visual Studio
+- Sign into GitHub in VS Code
+- Initialize repository
+- Create first commit with message
+- THEN cick "publish"
